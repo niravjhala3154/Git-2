@@ -1,1 +1,3 @@
 Hello from b.txt
+
+New trxt after the branch push.
