@@ -1,3 +1,7 @@
 Hello form a.txt. 
 
 New line on the file
+
+Hi there,
+
+Text after new branch
